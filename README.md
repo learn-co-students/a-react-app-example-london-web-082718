@@ -15,7 +15,7 @@ directory structure and gain a better understanding of how these apps are built.
 - Gain an overview of how the files interact
 - Practice writing your first React component
 
-#### A Note For In-Browser IDE Users
+### A Note For In-Browser IDE Users
 
 In order to work on React apps, we create a temporary server in the terminal
 that displays the app in your browser. This server will not work if you are
